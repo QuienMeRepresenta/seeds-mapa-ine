@@ -1,0 +1,9 @@
+captain/
+data/
+node_modules/
+.git/
+
+.env.example
+docker-compose.yml
+
+yarn-error.log
